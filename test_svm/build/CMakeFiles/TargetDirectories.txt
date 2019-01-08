@@ -1,0 +1,3 @@
+/home/zhuxiaohui/test_svm/build/CMakeFiles/edit_cache.dir
+/home/zhuxiaohui/test_svm/build/CMakeFiles/rebuild_cache.dir
+/home/zhuxiaohui/test_svm/build/CMakeFiles/test_svm.dir
